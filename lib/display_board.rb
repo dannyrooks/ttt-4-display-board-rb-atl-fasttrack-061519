@@ -2,7 +2,9 @@
 # out the current state.
 
 
-display_board(board)
+def display_board(board)
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts board[]
+  end
+end
