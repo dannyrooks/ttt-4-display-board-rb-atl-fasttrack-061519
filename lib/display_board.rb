@@ -13,3 +13,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 display_board(board) 
 
+display_board(X, 1)
+
+
+
